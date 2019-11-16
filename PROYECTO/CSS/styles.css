@@ -74,7 +74,7 @@ p{
           background: #80DBF4;
         }
         #welcome{
-          background: url('.../IMAGENES/arcilla.jpg')no-repeat center center/cover;
+          background: url('../IMAGENES/arcilla.jpg')no-repeat center center/cover;
           height: 600px;
         }
         #welcome .welcome-content{
@@ -109,7 +109,7 @@ p{
           #home-info .info-img{
             float: left;
             width: 50%;
-            background: url('.../IMAGENES/naturales.jpg')no-repeat center center/cover;
+            background: url('../IMAGENES/naturales.jpg')no-repeat center center/cover;
             min-height: 100%;
           }
           #home-info .info-content{
