@@ -163,12 +163,12 @@ p{
           }
           #testimonials{
             height: 600px;
-            background: url('../IMAGENES/MASK.jpg') no-repeat center center/cover;
+            background: url('/IMAGENES/MASK.jpg') no-repeat center center/cover;
             padding-top: 100px;
           }
           #practica{
             height: auto;
-            background: url('../IMAGENES/MASK.jpg')no-repeat center center/cover;
+            background: url('/IMAGENES/MASK.jpg')no-repeat center center/cover;
             padding-top: 100px;
           }
           #testimonials h2{
